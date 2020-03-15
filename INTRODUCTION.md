@@ -40,7 +40,7 @@
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041228279813/ElectroHelp3.png" aling="center">   
   <li>FUN - (26 )</li>
 
-`triggered`,`brazzers`,`burn`,`gay`,`missionpassed`,`thanos`,`rip,`meme`,`pat`,`love`,`slap`, `kiss`, `hug`, `cuddle`, `spank`, `tweet`,`phubcomment`,`howgay`, `whowouldwin`, `captcha`,`magik`,`deepfry`,`iphonex`,`threats`,`clyde`,`trash`   
+`triggered`,`brazzers`,`burn`,`gay`,`missionpassed`,`thanos`,`rip`,`meme`,`pat`,`love`,`slap`, `kiss`, `hug`, `cuddle`, `spank`, `tweet`,`phubcomment`,`howgay`, `whowouldwin`, `captcha`,`magik`,`deepfry`,`iphonex`,`threats`,`clyde`,`trash`   
  <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040644878396/ElectroHelp4.png" aling="center">  
   <li>MUSIC - (7)</li>
   
