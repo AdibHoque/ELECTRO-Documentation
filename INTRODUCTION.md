@@ -26,16 +26,16 @@
   
 <h2 align="center">ELECTRO CATEGORIES</h2>
 <ul>
-  <li>General - (8)</li>
+  <li>GENERAL - (8)</li>
   
 `ping`,`userinfo`,`serverinfo`, `ownerinfo`,`avatar`,`membercount`,`invite`,`upvote`
-  <li>Moderation - (11)</li>
+  <li>MODERATION - (11)</li>
   
 `kick`,`ban`,`setnick`,`role`,`say`,`DM`,`english`,`rolecolor`,`lockdown`,`unlock`,`menro` 
-  <li>Fun - (19)</li>
+  <li>FUN - (19)</li>
   
 `joke`,`love`,`slap`, `kiss`, `hug`, `virgin`, `gender`, `tweet`, `rolldice`, `flipcoin`, `howgay`, `whowouldwin`, `captcha`,`magik`,`deepfry`,`iphonex`,`threats`,`clyde`,`trash`
-  <li>Music - (7)</li>
+  <li>MUSIC - (7)</li>
   
 `play`,`skip`,`stop`,`pause`,`resume`,`volume`,`np` 
   <li>NSFW - (9)</li>
