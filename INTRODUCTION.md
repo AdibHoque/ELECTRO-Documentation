@@ -29,19 +29,21 @@
   
 <h2 align="center">ELECTRO CATEGORIES</h2>
 <ul>
-  <li>GENERAL - (8)</li>
-  
-`ping`,`userinfo`,`serverinfo`, `ownerinfo`,`avatar`,`membercount`,`invite`,`upvote`
-  <li>MODERATION - (11)</li>
-  
-`kick`,`ban`,`setnick`,`role`,`say`,`DM`,`english`,`rolecolor`,`lockdown`,`unlock`,`menro` 
-  <li>FUN - (19)</li>
-  
-`joke`,`love`,`slap`, `kiss`, `hug`, `virgin`, `gender`, `tweet`, `rolldice`, `flipcoin`, `howgay`, `whowouldwin`, `captcha`,`magik`,`deepfry`,`iphonex`,`threats`,`clyde`,`trash`
+  <li>GENERAL - (18)</li>
+
+`ping`,`userinfo`,`serverinfo`,`ownerinfo`,`avatar`,`membercount`,`math`,`define`,`invite`,`upvote`,`pokemon`,`shinypokemon`,`pokefuse`,`8ball`,`electroav`,`brilliance`,`bravery`,`balance`   
+  <li>MODERATION - (14)</li>
+
+`kick`,`ban`,`setnick`,`role`,`say`,`embed`,`DM`,`english`,`rolecolor`,`lockdown`,`unlock`,`menro`,`mute`,`unmute`    
+  <li>FUN - (26 )</li>
+
+`triggered`,`brazzers`,`burn`,`gay`,`missionpassed`,`thanos`,`rip,`meme`,`pat`,`love`,`slap`, `kiss`, `hug`, `cuddle`, `spank`, `tweet`,`phubcomment`,`howgay`, `whowouldwin`, `captcha`,`magik`,`deepfry`,`iphonex`,`threats`,`clyde`,`trash`   
   <li>MUSIC - (7)</li>
   
 `play`,`skip`,`stop`,`pause`,`resume`,`volume`,`np` 
-  <li>NSFW - (9)</li>
+  <li>NSFW - (26)</li>
+
+`boobs`,`pussy`,`ass`,`thighs`,`porngif`,`4k`,`anal`,`classic`,`blowjob`,`hentai`,`hentaianal`,`hentaithigh`,`hentaineko`,`hentaikitsune`,`girlsolo`,`pussygif`,`feet`,`femdom`,`pussyart`,`smallboobs`,`girlsologif`,`classic`,`cumsluts`,`randomhentaigif`,`bjgif`,`lesbian` 
 </ul> 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
 <h2 align="center">CONTRIBUTE</h2> 
