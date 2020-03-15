@@ -29,6 +29,7 @@
   
 <h2 align="center">ELECTRO CATEGORIES</h2>
 <ul>
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041790185561/ElectroHelp1.png" aling="center"> 
   <li>GENERAL - (18)</li>
 
 `ping`,`userinfo`,`serverinfo`,`ownerinfo`,`avatar`,`membercount`,`math`,`define`,`invite`,`upvote`,`pokemon`,`shinypokemon`,`pokefuse`,`8ball`,`electroav`,`brilliance`,`bravery`,`balance`   
