@@ -25,32 +25,34 @@
 
 **ELECTRO** commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If you want to use commands by mentioning you must put a space after the mention or the command won't work. 
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" alt="div" aling="center">
  
 <div align="center"> 
 <h2 align="center">ELECTRO CATEGORIES</h2>
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041790185561/ElectroHelp1.png" aling="center"> 
+
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041790185561/ElectroHelp1.png" alt="GENERAL" aling="center"> 
 
 `ping`, `userinfo`, `serverinfo`, `ownerinfo`, `avatar`, `membercount`, `math`, `define`, `invite`, `upvote`, `pokemon`, `shinypokemon`, `pokefuse`, `8ball`, `electroav`, `brilliance`, `bravery`, `balance`
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041471156226/ElectroHelp2.png" aling="center">     
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041471156226/ElectroHelp2.png" alt="MODERATION" aling="center">     
  
 `kick` ,`ban`, `setnick`, `role`, `say`, `embed`, `DM`, `english`, `rolecolor`, `lockdown`, `unlock`, `menro`, `mute`, `unmute`    
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041228279813/ElectroHelp3.png" aling="center">    
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041228279813/ElectroHelp3.png" alt="FUN" aling="center">    
 
 `triggered`, `brazzers`, `burn`, `gay`, `missionpassed`, `thanos`, `rip`, `meme`, `pat`, `love`, `slap`, `kiss`, `hug`, `cuddle`, `spank`, `tweet`, `phubcomment`, `howgay`, `whowouldwin`, `captcha`, `magik`, `deepfry`, `iphonex`, `threats`, `clyde`, `trash`   
  
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040644878396/ElectroHelp4.png" aling="center">  
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040644878396/ElectroHelp4.png" alt="MUSIC" aling="center">  
 
 `play`, `skip`, `stop`, `pause`, `resume`, `volume`, `np` 
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040372379688/ElectroHelp5.png" aling="center">   
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040372379688/ElectroHelp5.png" alt="NSFW" aling="center">   
 
 `boobs`, `pussy`, `ass`, `thighs`, `porngif`, `4k`, `anal`, `classic`, `blowjob`, `hentai`, `hentaianal`, `hentaithigh`, `hentaineko`, `hentaikitsune`, `girlsolo`, `pussygif`, `feet`, `femdom`, `pussyart`, `smallboobs` ,`girlsologif`, `classic`, `cumsluts`, `randomhentaigif`, `bjgif`, `lesbian` 
 
 </div>
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
+
 <h2 align="center">CONTRIBUTE</h2> 
  
 This project is licenced under MIT. If you have any new ideas, create an [issue](https://github.com/AdibHoque/ELECTRO/issues) or a [pull request](https://github.com/AdibHoque/ELECTRO/pulls). Contributions to **ELECTRO** are always welcome, whether it be improvements to the documentation or new functionality, please feel free contract us.
