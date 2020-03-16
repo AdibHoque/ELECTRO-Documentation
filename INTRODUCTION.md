@@ -3,13 +3,13 @@
   <h2 align="center">ELECTRIFY AND BOOST UP YOUR DISCORD SERVER</h2> 
   <br>
   <a href="https://discordapp.com/api/oauth2/authorize?client_id=629323586930212884&permissions=2146827775&scope=bot">
-    <img src="https://img.shields.io/badge/ADD-BOT-orange.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/ADD-BOT-orange.svg?style=for-the-badge" align="left">
   </a>
   <a href="https://top.gg/bot/629323586930212884/vote">
-    <img src="https://img.shields.io/badge/UPVOTE-BOT-orange.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/UPVOTE-BOT-orange.svg?style=for-the-badge" align="center">
   </a> 
   <a href="https://discord.gg/kuWVFpR">
-    <img src="https://img.shields.io/badge/JOIN-GUILD-orange.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/JOIN-GUILD-orange.svg?style=for-the-badge" align="right">
   </a>
   </div> 
   
@@ -25,7 +25,7 @@
 
 **ELECTRO** commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If you want to use commands by mentioning you must put a space after the mention or the command won't work. 
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" alt="div" aling="center">
+<img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" alt="" aling="center">
  
 <div align="center"> 
 <h2 align="center">ELECTRO CATEGORIES</h2>
@@ -50,9 +50,6 @@
 
 `boobs`, `pussy`, `ass`, `thighs`, `porngif`, `4k`, `anal`, `classic`, `blowjob`, `hentai`, `hentaianal`, `hentaithigh`, `hentaineko`, `hentaikitsune`, `girlsolo`, `pussygif`, `feet`, `femdom`, `pussyart`, `smallboobs` ,`girlsologif`, `classic`, `cumsluts`, `randomhentaigif`, `bjgif`, `lesbian` 
 
-</div>
-
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
 
 <h2 align="center">CONTRIBUTE</h2> 
  
