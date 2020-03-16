@@ -26,7 +26,8 @@
 **ELECTRO** commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If you want to use commands by mentioning you must put a space after the mention or the command won't work. 
 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
-  
+ 
+<div align="center"> 
 <h2 align="center">ELECTRO CATEGORIES</h2>
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041790185561/ElectroHelp1.png" aling="center"> 
 
@@ -48,6 +49,7 @@
 
 `boobs`, `pussy`, `ass`, `thighs`, `porngif`, `4k`, `anal`, `classic`, `blowjob`, `hentai`, `hentaianal`, `hentaithigh`, `hentaineko`, `hentaikitsune`, `girlsolo`, `pussygif`, `feet`, `femdom`, `pussyart`, `smallboobs` ,`girlsologif`, `classic`, `cumsluts`, `randomhentaigif`, `bjgif`, `lesbian` 
 
+</div>
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
 <h2 align="center">CONTRIBUTE</h2> 
  
