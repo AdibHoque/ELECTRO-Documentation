@@ -29,18 +29,23 @@
   
 <h2 align="center">ELECTRO CATEGORIES</h2>
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041790185561/ElectroHelp1.png" aling="center"> 
+
 `ping`, `userinfo`, `serverinfo`, `ownerinfo`, `avatar`, `membercount`, `math`, `define`, `invite`, `upvote`, `pokemon`, `shinypokemon`, `pokefuse`, `8ball`, `electroav`, `brilliance`, `bravery`, `balance`
 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041471156226/ElectroHelp2.png" aling="center">     
- `kick` ,`ban`, `setnick`, `role`, `say`, `embed`, `DM`, `english`, `rolecolor`, `lockdown`, `unlock`, `menro`, `mute`, `unmute`    
+ 
+`kick` ,`ban`, `setnick`, `role`, `say`, `embed`, `DM`, `english`, `rolecolor`, `lockdown`, `unlock`, `menro`, `mute`, `unmute`    
 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510041228279813/ElectroHelp3.png" aling="center">    
+
 `triggered`, `brazzers`, `burn`, `gay`, `missionpassed`, `thanos`, `rip`, `meme`, `pat`, `love`, `slap`, `kiss`, `hug`, `cuddle`, `spank`, `tweet`, `phubcomment`, `howgay`, `whowouldwin`, `captcha`, `magik`, `deepfry`, `iphonex`, `threats`, `clyde`, `trash`   
  
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040644878396/ElectroHelp4.png" aling="center">  
+
 `play`, `skip`, `stop`, `pause`, `resume`, `volume`, `np` 
 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040372379688/ElectroHelp5.png" aling="center">   
+
 `boobs`, `pussy`, `ass`, `thighs`, `porngif`, `4k`, `anal`, `classic`, `blowjob`, `hentai`, `hentaianal`, `hentaithigh`, `hentaineko`, `hentaikitsune`, `girlsolo`, `pussygif`, `feet`, `femdom`, `pussyart`, `smallboobs` ,`girlsologif`, `classic`, `cumsluts`, `randomhentaigif`, `bjgif`, `lesbian` 
 
 <img src="https://cdn.discordapp.com/attachments/656517276832366595/682143066689241094/ELECTRODiv.png" aling="center">
