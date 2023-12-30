@@ -46,11 +46,6 @@
 
 `play`, `skip`, `stop`, `pause`, `resume`, `volume`, `np` 
 
-<img src="https://cdn.discordapp.com/attachments/656517276832366595/681510040372379688/ElectroHelp5.png" alt="NSFW" aling="center">   
-
-`boobs`, `pussy`, `ass`, `thighs`, `porngif`, `4k`, `anal`, `classic`, `blowjob`, `hentai`, `hentaianal`, `hentaithigh`, `hentaineko`, `hentaikitsune`, `girlsolo`, `pussygif`, `feet`, `femdom`, `pussyart`, `smallboobs` ,`girlsologif`, `classic`, `cumsluts`, `randomhentaigif`, `bjgif`, `lesbian` 
-
-
 <h2 align="center">CONTRIBUTE</h2> 
  
 This project is licenced under MIT. If you have any new ideas, create an [issue](https://github.com/AdibHoque/ELECTRO/issues) or a [pull request](https://github.com/AdibHoque/ELECTRO/pulls). Contributions to **ELECTRO** are always welcome, whether it be improvements to the documentation or new functionality, please feel free contract us.
